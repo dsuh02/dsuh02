@@ -4,9 +4,9 @@ I'm a Computer Science student at the University of Southern California, graduat
 
 ## 🔧 Technologies & Tools
 - **Languages**: C/C++, Java, Python, x86-64, HTML5, CSS3, JavaScript, MySQL, Dart, Flutter
-- **Frameworks & Libraries**: Google APIs, Spotify API, OpenAI API, SDL
+- **Frameworks & Libraries**: Google APIs, Spotify API, OpenAI API, SDL Graphics, Java Servlets
 - **Tools**: Git, Shell, MS Suite, Photoshop
-- **Other Skills**: Web Development, API Integration, Database Management, SDLC
+- **Other Skills**: Cross-Platform App Development, Web Development, API Integration, Database Management, SDLC, AJAX
 
 ## 🚀 Projects
 - **Emotify**: A full-stack web application using OpenAI and Spotify APIs to create a personalized music experience. Developed with Java, JavaScript, HTML5, CSS3, and MySQL, the project integrates advanced LLMs to enhance user interaction and engagement.
@@ -23,7 +23,6 @@ I thrive in environments that challenge me to think creatively and push the limi
 
 ## 📫 Let’s Connect
 Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/) and check out a more in-depth portfolio on my [website](https://dsuh02.github.io/)! I'm always open to collaborating on exciting projects and contributing to the tech community.
-"""
 
 <!--
 **dsuh02/dsuh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
