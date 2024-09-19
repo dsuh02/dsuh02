@@ -19,7 +19,6 @@ I'm a Computer Science student at the University of Southern California, graduat
 I thrive in environments that challenge me to think creatively and push the limits of technology. My work spans from full-stack web applications to game development, and I am always looking to improve my skills and explore new technologies. I’m motivated by the startup mindset, where innovation and collaboration go hand-in-hand, and I have a strong interest in backend engineering roles.
 
 ## 🌱 Currently Learning
-- Rust and Go for backend development
 - AI/ML integration in software applications
 - Advanced data analysis techniques and bioinformatics
 
