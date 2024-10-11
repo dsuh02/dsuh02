@@ -22,7 +22,7 @@ I thrive in environments that challenge me to think creatively and push the limi
 - AI/ML integration in software applications
 
 ## 📫 Let’s Connect
-Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/) and check out a more in-depth portfolio on my [website](https://dsuh02.github.io/)! I'm always open to collaborating on exciting projects and contributing to the tech community.
+Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/danielsuh8205/) and check out a more in-depth portfolio on my [website](https://dsuh02.github.io/)! I'm always open to collaborating on exciting projects and contributing to the tech community.
 
 <!--
 **dsuh02/dsuh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
