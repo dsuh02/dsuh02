@@ -1,40 +1,51 @@
-# 👋 Hi, I'm Daniel
+# Daniel Suh
 
-I'm a Computer Science student at the University of Southern California, graduating in May 2025. I’m passionate about software development, full-stack web applications, and game development. I've worked on a range of projects, from dynamic web apps to 2D/3D games, always seeking innovative ways to solve problems and build meaningful solutions.
+Software engineer at Persist AI Formulations in Sacramento, California. I own our lab
+information management system end to end and build the infrastructure beneath a multi-agent
+LLM platform for pharmaceutical formulation. Mostly PostgreSQL and FastAPI, with React and
+TypeScript on top.
 
-## 🔧 Technologies & Tools
-- **Languages**: C/C++, Java, Python, x86-64, HTML5, CSS3, JavaScript, MySQL, Dart, Flutter
-- **Frameworks & Libraries**: Google APIs, Spotify API, OpenAI API, SDL Graphics, Java Servlets
-- **Tools**: Git, Shell, MS Suite, Photoshop
-- **Other Skills**: Cross-Platform App Development, Web Development, API Integration, Database Management, SDLC, AJAX
+Most of what I do day to day is closed source, so this account is the other half: hardware,
+home infrastructure, and things I wanted to exist.
 
-## 🚀 Projects
-- **Emotify**: A full-stack web application using OpenAI and Spotify APIs to create a personalized music experience. Developed with Java, JavaScript, HTML5, CSS3, and MySQL, the project integrates advanced LLMs to enhance user interaction and engagement.
-- **Spotted**: A geographic data visualization app built using the Google Maps API. Features include asynchronous AJAX calls and robust backend integration to ensure seamless interaction between front-end users and real-time data.
-- **Game Development**: I've developed several games like *Portal*, *Mario Kart*, *Pac-Man*, and *Zelda* using C++ and SDL, implementing dynamic AI pathing, realistic physics, and repeatable play cycles.
+## Projects
 
-## 💡 What Drives Me
-I thrive in environments that challenge me to think creatively and push the limits of my tools. My work spans from full-stack web applications to game development, and I am always looking to improve my skills and explore new technologies. I’m motivated by the startup mindset, where innovation and collaboration go hand-in-hand, and I have a strong interest in backend engineering roles.
+**[digicalender](https://github.com/dsuh02/digicalender)**
+A touch-wall hub that runs my house. Configurable widgets on a fine-grained grid, with
+calendars, to-dos, weather, and direct control of the Rokus, Govee plugs, and Samsung TVs on
+the network. Python standard library plus Postgres, with no pip and no build step, which meant
+writing a hand-rolled HTTP router, an SSE broadcaster, and a minimal RFC 6455 WebSocket client.
+A wall display that will not boot because a package failed to compile is worse than a router I
+wrote myself.
 
-## 🌱 Currently Learning
-- Networking Systems
-- Operating Systems
-- AI/ML integration in software applications
+**[raspberry-pi-reverse-camera-screen](https://github.com/dsuh02/raspberry-pi-reverse-camera-screen)**
+An always-on dash and reverse camera for a Lexus CT200h. A Pi 4B drives a 4.3 inch DSI touch
+display through DRM/KMS with no desktop session, and an overlay service watches the capture
+dongle so the camera appears the moment the feed goes live. Powered off an ACC fuse tap, so it
+has to boot like an appliance every time the key turns.
 
-## 📫 Let’s Connect
-Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/danielsuh8205/) and check out a more in-depth portfolio on my [website](https://dsuh02.github.io/)! I'm always open to collaborating on exciting projects and contributing to the tech community.
+**[lims-pi-scanners](https://github.com/dsuh02/lims-pi-scanners)**
+Raspberry Pi barcode scanners that post container moves straight into a lab inventory system.
+Two-step scan, USB HID, deployed with udev rules.
 
-<!--
-**dsuh02/dsuh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[dsuh02.github.io](https://github.com/dsuh02/dsuh02.github.io)**
+My site. Hand-written HTML, CSS, and JavaScript. No framework, no bundler, no build step,
+deployed by git push.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, Java, C, C++, SQL, Bash |
+| **Backend** | FastAPI, Flask, SQLAlchemy, Pydantic, asyncio, httpx, WebSockets, SSE |
+| **Data** | PostgreSQL, pgvector, SQLite, MySQL, Alembic, schema migrations |
+| **Frontend** | React, Vite, TypeScript, Zustand, Tailwind |
+| **LLM systems** | multi-agent orchestration, tool calling, RAG, embedding pipelines, provider routing |
+| **Infrastructure** | Docker, Azure, Linux, CI/CD, pytest, Playwright, Vitest |
+| **Hardware** | OPC UA (asyncua), serial protocols, Raspberry Pi, embedded C |
+
+## Elsewhere
+
+[dsuh02.github.io](https://dsuh02.github.io) &middot;
+[LinkedIn](https://www.linkedin.com/in/danielsuh8205/) &middot;
+dsuh3508@gmail.com
